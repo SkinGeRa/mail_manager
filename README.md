@@ -1,4 +1,4 @@
-# mailing_service
+# mail_manager
 
 ### Введение
 
