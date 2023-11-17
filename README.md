@@ -6,7 +6,7 @@
 Для установки и запуска проекта выполните следующие шаги:
 
 1. Склонируйте репозиторий проекта на свой локальный компьютер
-**_git clone https://github.com/SheenShaman/mail_manager_**
+**_git clone https://github.com/SkinGeRa/mail_manager_**
 2. Создайте виртуальное окружение
 _**python3 -m venv мyenv**_
 3. Активируйте виртуальное окружение 
